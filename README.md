@@ -1,8 +1,8 @@
-![Main workflow](https://github.com/cs481-ekh/s21-team-blue/workflows/Build/badge.svg)
+![Main workflow](https://github.com/7CLewis/PiRate/workflows/Build/badge.svg)
 
 
 # PiRate
-BSU CS481 Capstone Project
+PiRate is standalone security software designed to allow researchers, engineers, and pentesters the ability to use a fully customizable vulnerability testing framework. The software is designed to come fully configured on a Raspberry Pi 3 device, so that users will simply be able to connect the Pi to their PC, turn the Pi on, and run tests. The instructions below are for anyone who would like to manually install and configure the PiRate software on their own Raspberry Pi device.
 
 ### Dependencies
 
